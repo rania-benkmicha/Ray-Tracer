@@ -1,0 +1,5 @@
+on compile en utilisant le makefile par make all
+ensuite on execute le fichier (./raytracing)
+ensuite on choisit le numéro de fichier : 1 ou 2
+on choisit alors entre le num 1 ou 2 ; la méthode 1 :visualisation de l'animation en controlant la source lumineuse avec la souris
+ou la méthode 2 :visuation d'un résultat invariant dans le temps avec enregistrement en tant q'une image BMP.
