@@ -2,6 +2,8 @@
 
 ## Compilation and running the project
 
+A C++ project for rendering time-invariant ray-traced scenes. Features interactive light source control via mouse input and the ability to save results as BMP images.
+
 The project can be compiled using the makefile using the **make all** command
 Then, we should issue the command **./raytracing** in order to run the project.
 
